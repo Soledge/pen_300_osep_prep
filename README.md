@@ -24,7 +24,7 @@ Collection of resources used in prep for OSEP, including course material progres
 - [ ] Complete labs
 
 ## Syllabus
-- [x] 1. Evasion Techniques and Breaching Defenses: General Course Information
+- [] 1. Evasion Techniques and Breaching Defenses: General Course Information
   - [] 1.1 About The PEN-300 Course
   - [] 1.2 Provided Material
   - [] 1.3 Overall Strategies for Approaching the Course
@@ -44,7 +44,7 @@ Collection of resources used in prep for OSEP, including course material progres
   - [] 3.1 Will You Be My Dropper
     - [] 3.1.1 Staged vs. Non-Staged Payloads
     - [] 3.1.2 Building Our Droppers
-      - [x] 3.1.2.1 Exercise
+      - [] 3.1.2.1 Exercise
     - [] 3.1.3 HTML Smuggling
       - [] 3.1.3.1 Exercises
   - [] 3.2 Phishing With Microsoft Office
